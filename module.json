@@ -3,7 +3,7 @@
   "name": "module-billing-domains-livewire",
   "display_name": "Billing Domains Livewire",
   "description": "Livewire adapter for Billing Domains.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "category": "presentation",
   "provider": "Liberu\\Billing\\Domains\\Livewire\\DomainsLivewireServiceProvider",
   "requires": {
